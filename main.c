@@ -7,9 +7,4 @@ Initial Function()
 
 Initial Security()
 {
- //Sample Code
-}
-
-
-
-}
+  //sample code
